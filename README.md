@@ -63,7 +63,7 @@ By exploring this notebook, you'll learn:
 
 ## ✍️ Author
 
-**Sana Naz**
+**Muhammad Saadi**
 
 ---
 
